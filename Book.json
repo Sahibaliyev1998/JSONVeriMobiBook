@@ -1,0 +1,24 @@
+[
+    {
+      "id": "1",
+      "name": "Uyumsuz",
+      "author": "Veronica Roth",
+      "image": "https://cdn.asaha.com/assets/thumbs/fdf/fdf4165e082e431eee6d98c31103d752.jpg",
+      "category": "Bilim_Kurgu"
+    },
+    {
+      "id": "2",
+      "name": "Kuralsiz",
+      "author": "Veronica Roth",
+      "image": "https://cdn.asaha.com/assets/thumbs/ce8/ce838f03160cf132de61e1e201d14828.jpg",
+      "category": "Bilim_Kurgu"
+    },
+    {
+      "id": "3",
+      "name": "Yandas",
+      "author": "Veronica Roth",
+      "image": "https://cdn.asaha.com/assets/thumbs/3a5/3a516d688925a374762a30bca45c60e1.jpg",
+      "category": "Bilim_Kurgu"
+    }
+    
+  ]
