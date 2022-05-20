@@ -3,42 +3,42 @@
       "id": "1",
       "name": "Uyumsuz",
       "author": "Veronica Roth",
-      "image": "https://cdn.asaha.com/assets/thumbs/fdf/fdf4165e082e431eee6d98c31103d752.jpg",
+      "image": "https://raw.githubusercontent.com/Bysako/JSONVeriMobiBook/master/uyumsuz.jpg",
       "category": "Bilim_Kurgu"
     },
     {
       "id": "2",
       "name": "Kuralsiz",
       "author": "Veronica Roth",
-      "image": "https://cdn.asaha.com/assets/thumbs/ce8/ce838f03160cf132de61e1e201d14828.jpg",
+      "image": "https://raw.githubusercontent.com/Bysako/JSONVeriMobiBook/master/kuralsiz.jpg",
       "category": "Bilim_Kurgu"
     },
     {
       "id": "3",
       "name": "Yandas",
       "author": "Veronica Roth",
-      "image": "https://cdn.asaha.com/assets/thumbs/3a5/3a516d688925a374762a30bca45c60e1.jpg",
+      "image": "https://raw.githubusercontent.com/Bysako/JSONVeriMobiBook/master/yandas.jpg",
       "category": "Bilim_Kurgu"
     },
     {
       "id": "4",
       "name": "Açlık Oyunları",
       "author": "Suzanne Collins",
-      "image": "https://github.com/Bysako/JSONVeriMobiBook/blob/main/aclik_oyunlari.jpg",
+      "image": "https://raw.githubusercontent.com/Bysako/JSONVeriMobiBook/master/aclik_oyunlari.jpg",
       "category": "Bilim_Kurgu"
     },
 {
       "id": "5",
       "name": "Ateşi Yakalamak",
       "author": "Suzanne Collins",
-      "image": "https://github.com/Bysako/JSONVeriMobiBook/blob/main/atesi_yakalamak.jpg",
+      "image": "https://raw.githubusercontent.com/Bysako/JSONVeriMobiBook/master/atesi_yakalamak.jpg",
       "category": "Bilim_Kurgu"
     },
 {
       "id": "6",
       "name": "Alaycı Kuş",
       "author": "Suzanne Collins",
-      "image": "https://github.com/Bysako/JSONVeriMobiBook/blob/main/alayci_kus.jpg",
+      "image": "https://raw.githubusercontent.com/Bysako/JSONVeriMobiBook/master/alayci_kus.jpg",
       "category": "Bilim_Kurgu"
     }
     
