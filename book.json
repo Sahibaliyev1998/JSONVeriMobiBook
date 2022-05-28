@@ -27,14 +27,14 @@
       "image": "https://raw.githubusercontent.com/Bysako/JSONVeriMobiBook/master/aclik_oyunlari.jpg",
       "category": "Bilim_Kurgu"
     },
-{
+    {
       "id": "5",
       "name": "Ateşi Yakalamak",
       "author": "Suzanne Collins",
       "image": "https://raw.githubusercontent.com/Bysako/JSONVeriMobiBook/master/atesi_yakalamak.jpg",
       "category": "Bilim_Kurgu"
     },
-{
+    {
       "id": "6",
       "name": "Alaycı Kuş",
       "author": "Suzanne Collins",
@@ -42,4 +42,4 @@
       "category": "Bilim_Kurgu"
     }
     
-  ]
+]
