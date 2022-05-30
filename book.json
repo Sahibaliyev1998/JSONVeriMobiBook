@@ -28,7 +28,7 @@
       "name": "Açlık Oyunları",
       "author": "Suzanne Collins",
       "image": "https://raw.githubusercontent.com/Bysako/JSONVeriMobiBook/master/aclik_oyunlari.jpg",
-      "category": "Bilim_Kurgu",
+      "category": "Aksion,
       "description":""
     },
     {
@@ -36,7 +36,7 @@
       "name": "Ateşi Yakalamak",
       "author": "Suzanne Collins",
       "image": "https://raw.githubusercontent.com/Bysako/JSONVeriMobiBook/master/atesi_yakalamak.jpg",
-      "category": "Bilim_Kurgu",
+      "category": "Aksion",
       "description":""
     },
     {
@@ -44,7 +44,7 @@
       "name": "Alaycı Kuş",
       "author": "Suzanne Collins",
       "image": "https://raw.githubusercontent.com/Bysako/JSONVeriMobiBook/master/alayci_kus.jpg",
-      "category": "Bilim_Kurgu",
+      "category": "Aksion",
       "description":""
     }
     
