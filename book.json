@@ -33,7 +33,7 @@
       "image": "https://raw.githubusercontent.com/Bysako/JSONVeriMobiBook/master/aclik_oyunlari.jpg",
       "category": "Aksion",
       "description":"",
-      "pdf":""
+      "pdf":"https://hzarrdyrkhvkgcabonmq.supabase.co/storage/v1/object/public/bookpdf/Aclik oyunlari.pdf"
     },
     {
       "id": "5",
@@ -42,7 +42,7 @@
       "image": "https://raw.githubusercontent.com/Bysako/JSONVeriMobiBook/master/atesi_yakalamak.jpg",
       "category": "Aksion",
       "description":"",
-      "pdf":""
+      "pdf":"https://hzarrdyrkhvkgcabonmq.supabase.co/storage/v1/object/public/bookpdf/Atesi yaklamak.pdf"
     },
     {
       "id": "6",
@@ -51,7 +51,7 @@
       "image": "https://raw.githubusercontent.com/Bysako/JSONVeriMobiBook/master/alayci_kus.jpg",
       "category": "Aksion",
       "description":"",
-      "pdf":""
+      "pdf":"https://hzarrdyrkhvkgcabonmq.supabase.co/storage/v1/object/public/bookpdf/Alayci kus.pdf"
     }
     
 ]
