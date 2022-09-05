@@ -4,7 +4,7 @@
       "name": "Uyumsuz",
       "author": "Veronica Roth",
       "image": "https://raw.githubusercontent.com/Bysako/JSONVeriMobiBook/master/uyumsuz.jpg",
-      "category": "Bilim_Kurgu | Aksion",
+      "category": ["Bilim_Kurgu","Aksion"],
       "description":"Beatrice’in, annesinin aslında ne kadar güçlü bir kadın olduğunu anladığı anı bana hediye eden anneme..." ,
       "pdf":"https://hzarrdyrkhvkgcabonmq.supabase.co/storage/v1/object/public/bookpdf/Uyumsuz.pdf"
     },
