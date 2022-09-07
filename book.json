@@ -13,7 +13,7 @@
       "name": "Kuralsiz",
       "author": "Veronica Roth",
       "image": "https://raw.githubusercontent.com/Bysako/JSONVeriMobiBook/master/kuralsiz.jpg",
-      "category": "Bilim_Kurgu123456",
+      "category": ["Bilim_Kurgu","Aksion"],
       "description":"Her tür riski göze almaya değen Nelson için.“Tıpkı vahşi bir hayvan gibi gerçek, kafese kapatılamayacak kadar güçlü.” - Dürüstlük Grubu Manifestosu ’ndan",
       "pdf":"https://hzarrdyrkhvkgcabonmq.supabase.co/storage/v1/object/public/bookpdf/Kuralsiz.pdf"
     },
@@ -22,7 +22,7 @@
       "name": "Yandas",
       "author": "Veronica Roth",
       "image": "https://raw.githubusercontent.com/Bysako/JSONVeriMobiBook/master/yandas.jpg",
-      "category": "Bilim_Kurgu",
+      "category": ["Bilim_Kurgu","Aksion"],
       "description":"",
       "pdf":"https://hzarrdyrkhvkgcabonmq.supabase.co/storage/v1/object/public/bookpdf/Yandas.pdf"
     },
@@ -31,7 +31,7 @@
       "name": "Açlık Oyunları",
       "author": "Suzanne Collins",
       "image": "https://raw.githubusercontent.com/Bysako/JSONVeriMobiBook/master/aclik_oyunlari.jpg",
-      "category": "Aksion",
+      "category":["Bilim_Kurgu","Aksion"],
       "description":"",
       "pdf":"https://hzarrdyrkhvkgcabonmq.supabase.co/storage/v1/object/public/bookpdf/Aclik oyunlari.pdf"
     },
@@ -40,7 +40,7 @@
       "name": "Ateşi Yakalamak",
       "author": "Suzanne Collins",
       "image": "https://raw.githubusercontent.com/Bysako/JSONVeriMobiBook/master/atesi_yakalamak.jpg",
-      "category": "Aksion",
+      "category": ["Aksion"],
       "description":"",
       "pdf":"https://hzarrdyrkhvkgcabonmq.supabase.co/storage/v1/object/public/bookpdf/Atesi yaklamak.pdf"
     },
@@ -49,7 +49,7 @@
       "name": "Alaycı Kuş",
       "author": "Suzanne Collins",
       "image": "https://raw.githubusercontent.com/Bysako/JSONVeriMobiBook/master/alayci_kus.jpg",
-      "category": "Aksion",
+      "category":[ "Aksion"],
       "description":"",
       "pdf":"https://hzarrdyrkhvkgcabonmq.supabase.co/storage/v1/object/public/bookpdf/Alayci kus.pdf"
     }
