@@ -66,10 +66,19 @@
       "id": "8",
       "name": "Harry Potter ve Sırlar Odası",
       "author": "J.K.Rowling",
-      "image": "https://raw.githubusercontent.com/Sahibaliyev1998/JSONVeriMobiBook/main/hpfeltas.jpg",
+      "image": "https://github.com/Sahibaliyev1998/JSONVeriMobiBook/blob/main/harrysirlarodasi.jpg",
       "category":"Aksion",
       "description":"",
-      "pdf":"https://hzarrdyrkhvkgcabonmq.supabase.co/storage/v1/object/public/bookpdf/Harry_felsefe.pdf"
+      "pdf":"https://hzarrdyrkhvkgcabonmq.supabase.co/storage/v1/object/public/bookpdf/Harry_sirlar.pdf"
+    },
+    {
+      "id": "9",
+      "name": "Harry Potter ve Sırlar Odası",
+      "author": "J.K.Rowling",
+      "image": "https://github.com/Sahibaliyev1998/JSONVeriMobiBook/blob/main/harryates.jpg",
+      "category":"Aksion",
+      "description":"",
+      "pdf":"https://hzarrdyrkhvkgcabonmq.supabase.co/storage/v1/object/public/bookpdf/Harry_ates.pdf"
     }
     
 ]
