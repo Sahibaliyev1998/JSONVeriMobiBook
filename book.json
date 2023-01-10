@@ -52,6 +52,15 @@
       "category":"Aksion",
       "description":"",
       "pdf":"https://hzarrdyrkhvkgcabonmq.supabase.co/storage/v1/object/public/bookpdf/Alayci_kus.pdf"
+    },
+    {
+      "id": "7",
+      "name": "Harry Poter ve Felsefe Taşı",
+      "author": "J.K.Rowling",
+      "image": "https://raw.githubusercontent.com/Bysako/JSONVeriMobiBook/master/alayci_kus.jpg",
+      "category":"Aksion",
+      "description":"",
+      "pdf":"https://hzarrdyrkhvkgcabonmq.supabase.co/storage/v1/object/public/bookpdf/Alayci_kus.pdf"
     }
     
 ]
