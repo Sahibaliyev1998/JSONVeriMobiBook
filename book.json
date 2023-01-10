@@ -57,10 +57,10 @@
       "id": "7",
       "name": "Harry Poter ve Felsefe Taşı",
       "author": "J.K.Rowling",
-      "image": "https://raw.githubusercontent.com/Bysako/JSONVeriMobiBook/master/alayci_kus.jpg",
+      "image": "https://raw.githubusercontent.com/Sahibaliyev1998/JSONVeriMobiBook/main/hpfeltas.jpg",
       "category":"Aksion",
       "description":"",
-      "pdf":"https://hzarrdyrkhvkgcabonmq.supabase.co/storage/v1/object/public/bookpdf/Alayci_kus.pdf"
+      "pdf":"https://hzarrdyrkhvkgcabonmq.supabase.co/storage/v1/object/public/bookpdf/Harry_felsefe.pdf"
     }
     
 ]
